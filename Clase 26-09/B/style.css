@@ -1,0 +1,58 @@
+body{ 
+    background-color: pink; 
+} 
+
+.fondoverde{ 
+    background-color: green; 
+} 
+
+h2{ 
+    background-color: aqua; 
+    font-family: Arial, Helvetica, sans-serif; 
+} 
+
+#tituloprincipal{ 
+    background-color: rgb(172, 234, 110); 
+    width: 400px; 
+    height: 50px; 
+    display: inline-block; 
+} 
+
+button{ 
+    background-color: rgb(162, 19, 194); 
+    display: block; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+} 
+
+#botongris{ 
+    background-color: gray; 
+} 
+
+.gato{ 
+    width: 300px; 
+} 
+
+.texto2{ 
+    width:  25%; 
+    height: 40 vh; 
+} 
+
+.bordeazul{ 
+    border-color: blue; 
+    border-width: 2px; 
+    border-style: dotted; 
+} 
+
+#textounico{ 
+    background-image: url(./imagenes/istockphoto-1413817140-1024x1024.jpg); 
+} 
+
+ul{ 
+    background-color: chocolate; 
+    width: 500px; 
+} 
+
+li{ 
+    background-color: red; 
+    width: 50%; 
+} 
